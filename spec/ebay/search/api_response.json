@@ -1,0 +1,458 @@
+{
+  "findItemsByKeywordsResponse": [
+    {
+      "ack": [
+        "Success"
+      ],
+      "version": [
+        "1.13.0"
+      ],
+      "timestamp": [
+        "2018-02-16T04:58:45.804Z"
+      ],
+      "searchResult": [
+        {
+          "@count": "3",
+          "item": [
+            {
+              "itemId": [
+                "302551848542"
+              ],
+              "title": [
+                "Harry Potter: Complete 8-Film Collection (DVD, 2011, 8-Disc Set)"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "617"
+                  ],
+                  "categoryName": [
+                    "DVDs & Blu-ray Discs"
+                  ]
+                }
+              ],
+              "galleryURL": [
+                "http:\/\/thumbs3.ebaystatic.com\/m\/mQL3eRb48vPUJRr5kxd-mrA\/140.jpg"
+              ],
+              "viewItemURL": [
+                "http:\/\/www.ebay.com\/itm\/Harry-Potter-Complete-8-Film-Collection-DVD-2011-8-Disc-Set-\/302551848542"
+              ],
+              "productId": [
+                {
+                  "@type": "ReferenceID",
+                  "__value__": "110258144"
+                }
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "autoPay": [
+                "true"
+              ],
+              "postalCode": [
+                "06811"
+              ],
+              "location": [
+                "Danbury,CT,USA"
+              ],
+              "country": [
+                "US"
+              ],
+              "shippingInfo": [
+                {
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ]
+                }
+              ],
+              "sellingStatus": [
+                {
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "16.99"
+                    }
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "16.99"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P15DT3H0M43S"
+                  ]
+                }
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "startTime": [
+                    "2017-12-03T07:59:28.000Z"
+                  ],
+                  "endTime": [
+                    "2018-03-03T07:59:28.000Z"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "watchCount": [
+                    "346"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionId": [
+                    "1000"
+                  ],
+                  "conditionDisplayName": [
+                    "Brand New"
+                  ]
+                }
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "topRatedListing": [
+                "false"
+              ]
+            },
+            {
+              "itemId": [
+                "183072047397"
+              ],
+              "title": [
+                "NEW Blu-Ray Harry Potter Complete 8-Film Collection (8-Disc Set BLU-RAY, 2011)"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "617"
+                  ],
+                  "categoryName": [
+                    "DVDs & Blu-ray Discs"
+                  ]
+                }
+              ],
+              "galleryURL": [
+                "http:\/\/thumbs2.ebaystatic.com\/m\/ms4WJW_rhfGOO3cBMCACGcQ\/140.jpg"
+              ],
+              "viewItemURL": [
+                "http:\/\/www.ebay.com\/itm\/NEW-Blu-Ray-Harry-Potter-Complete-8-Film-Collection-8-Disc-Set-BLU-RAY-2011-\/183072047397"
+              ],
+              "productId": [
+                {
+                  "@type": "ReferenceID",
+                  "__value__": "110600179"
+                }
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "autoPay": [
+                "true"
+              ],
+              "postalCode": [
+                "91748"
+              ],
+              "location": [
+                "Rowland Heights,CA,USA"
+              ],
+              "country": [
+                "US"
+              ],
+              "shippingInfo": [
+                {
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ]
+                }
+              ],
+              "sellingStatus": [
+                {
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "32.99"
+                    }
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "32.99"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P27DT1H21M35S"
+                  ]
+                }
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "startTime": [
+                    "2018-02-13T06:20:20.000Z"
+                  ],
+                  "endTime": [
+                    "2018-03-15T06:20:20.000Z"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "watchCount": [
+                    "17"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionId": [
+                    "1000"
+                  ],
+                  "conditionDisplayName": [
+                    "Brand New"
+                  ]
+                }
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "topRatedListing": [
+                "false"
+              ]
+            },
+            {
+              "itemId": [
+                "253251146001"
+              ],
+              "title": [
+                "BLU-RAY NEW Harry Potter: Complete 8-Film Collection (Blu-ray, 2011, 8-Discs) "
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "617"
+                  ],
+                  "categoryName": [
+                    "DVDs & Blu-ray Discs"
+                  ]
+                }
+              ],
+              "galleryURL": [
+                "http:\/\/thumbs2.ebaystatic.com\/m\/muXM8_SphkLdTjiyN_aOPGw\/140.jpg"
+              ],
+              "viewItemURL": [
+                "http:\/\/www.ebay.com\/itm\/BLU-RAY-NEW-Harry-Potter-Complete-8-Film-Collection-Blu-ray-2011-8-Discs-\/253251146001"
+              ],
+              "productId": [
+                {
+                  "@type": "ReferenceID",
+                  "__value__": "110349063"
+                }
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "autoPay": [
+                "false"
+              ],
+              "postalCode": [
+                "37862"
+              ],
+              "location": [
+                "Sevierville,TN,USA"
+              ],
+              "country": [
+                "US"
+              ],
+              "shippingInfo": [
+                {
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "expeditedShipping": [
+                    "false"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ]
+                }
+              ],
+              "sellingStatus": [
+                {
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "39.95"
+                    }
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "39.95"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P21DT15H16M41S"
+                  ]
+                }
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "true"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "startTime": [
+                    "2017-11-09T20:15:26.000Z"
+                  ],
+                  "endTime": [
+                    "2018-03-09T20:15:26.000Z"
+                  ],
+                  "listingType": [
+                    "FixedPrice"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "watchCount": [
+                    "155"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionId": [
+                    "1000"
+                  ],
+                  "conditionDisplayName": [
+                    "Brand New"
+                  ]
+                }
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "topRatedListing": [
+                "false"
+              ]
+            }
+          ]
+        }
+      ],
+      "paginationOutput": [
+        {
+          "pageNumber": [
+            "1"
+          ],
+          "entriesPerPage": [
+            "3"
+          ],
+          "totalPages": [
+            "142947"
+          ],
+          "totalEntries": [
+            "428840"
+          ]
+        }
+      ],
+      "itemSearchURL": [
+        "http:\/\/www.ebay.com\/sch\/i.html?_nkw=harry+potter&_ddo=1&_ipg=3&_pgn=1"
+      ]
+    }
+  ]
+}
